@@ -1,3 +1,5 @@
+![bibliostat-db: library statistics spreadsheet data](docs/images/social-preview.png)
+
 # bibliostat-db
 
 A small Node.js script that reads a spreadsheet of the Virginia Public Library Survey (an `.xlsx` file) and prints the first sheet as rows of data.
